@@ -13,8 +13,8 @@
       // text = text.replace(/\s+/g," "); //double whitespaces
       
       result = text.split(/\.!?/);
-      sentences = sentences.concat(result);
-      // sentences = text.split(".");
+      // sentences = sentences.conc  at(result);
+      sentences = text.split(".");
 
 
     });
